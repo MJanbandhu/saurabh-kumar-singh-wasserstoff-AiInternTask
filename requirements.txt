@@ -1,0 +1,8 @@
+opencv-python
+tensorflow
+keras
+pytesseract
+textblob
+streamlit
+matplotlib
+pandas
