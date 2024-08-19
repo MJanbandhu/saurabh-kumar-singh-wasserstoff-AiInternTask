@@ -30,3 +30,7 @@ This project implements an AI pipeline that segments, identifies, and analyzes o
 - Pytesseract
 - TextBlob
 - Streamlit
+- matplotlib
+- pandas
+- seaborn
+- NumPy
