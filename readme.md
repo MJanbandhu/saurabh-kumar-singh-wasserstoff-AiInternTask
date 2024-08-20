@@ -1,4 +1,4 @@
-# AI Pipeline for Image Segmentation and Object Analysis
+# AI Pipeline for Image Segmentation and Object Analysis by Mohit Janbandhu
 
 ## Overview
 This project implements an AI pipeline that segments, identifies, and analyzes objects within an image, then outputs a summary with mapped data.
@@ -18,10 +18,18 @@ This project implements an AI pipeline that segments, identifies, and analyzes o
 2. Install the required packages: `pip install -r requirements.txt`.
 3. Run the Streamlit app: `streamlit run streamlit_app/app.py`.
 
+## Alternative way !
+1. Use this streamlit.io link to reach app https://mohit-ashok-janbandhu-wasserstoff-aiinterntask-k5fbm4qvq9fampe.streamlit.app/
+
 ## Usage
 1. Upload an image through the Streamlit app.
 2. The pipeline will segment the image, extract objects, identify them, extract text, summarize attributes, and map the data.
 3. The results are displayed and saved in the `data/output/` directory.
+
+
+
+![Screenshot 2024-08-19 at 19-43-04 app](https://github.com/user-attachments/assets/159f998c-2d2a-4bce-a1cf-090e41a40195)
+
 
 ## Requirements
 - Python 3.x
