@@ -4,6 +4,6 @@ keras
 pytesseract
 textblob
 streamlit
-unittest
+numpy
 matplotlib
 pandas
