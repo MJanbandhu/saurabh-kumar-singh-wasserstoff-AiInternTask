@@ -4,5 +4,8 @@ keras==3.5.0
 pytesseract==0.3.13
 textblob==0.18.0
 streamlit==1.37.1
-numpy==1.26.0  # Update this to be compatible
+numpy==1.26.0
+matplotlib==3.7.1
+pandas==2.0.3
 scipy==1.11.1
+cython
