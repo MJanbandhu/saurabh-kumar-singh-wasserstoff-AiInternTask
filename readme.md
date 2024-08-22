@@ -19,7 +19,7 @@ This project implements an AI pipeline that segments, identifies, and analyzes o
 3. Run the Streamlit app: `streamlit run streamlit_app/app.py`.
 
 ## Alternative way !
-1. Use this streamlit.io link to reach app https://mohit-ashok-janbandhu-wasserstoff-aiinterntask-k5fbm4qvq9fampe.streamlit.app/
+1. Use this streamlit.io link to reach app https://kcufzdwuh8cooscv8c7dqz.streamlit.app/
 
 ## Usage
 1. Upload an image through the Streamlit app.
